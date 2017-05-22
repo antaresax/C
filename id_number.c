@@ -8,7 +8,7 @@ void main()
 
 	int m,n,k,i,year_data[10];
 	int age,set_year;
-	puts(" 주민 등록번호를 입력하세요abc:");
+	puts(" 주민 등록번호를 입력하세요ttt:");
 
 	for(k=0;k<14;k++)
 	{
